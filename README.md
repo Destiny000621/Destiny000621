@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Destiny000621
 - 👀 I’m interested in Machine Learning, especially in Reinforcement Learning.
-- 🌱 I’m currently a master's student at NUS.
+- 🌱 I’m an incoming PhD student at UT Austin.
 - 🤖 Recently focus on Data-driven Reinforcement Learning.
 
 <!---
